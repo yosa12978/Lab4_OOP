@@ -1,0 +1,12 @@
+D:\Programs\University\oop\Lab4\StressTest\bin\Debug\net6.0\StressTest.deps.json
+D:\Programs\University\oop\Lab4\StressTest\bin\Debug\net6.0\StressTest.dll
+D:\Programs\University\oop\Lab4\StressTest\bin\Debug\net6.0\StressTest.pdb
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\StressTest.csproj.AssemblyReference.cache
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\StressTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\StressTest.AssemblyInfoInputs.cache
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\StressTest.AssemblyInfo.cs
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\StressTest.csproj.CoreCompileInputs.cache
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\StressTest.dll
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\refint\StressTest.dll
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\StressTest.pdb
+D:\Programs\University\oop\Lab4\StressTest\obj\Debug\net6.0\ref\StressTest.dll

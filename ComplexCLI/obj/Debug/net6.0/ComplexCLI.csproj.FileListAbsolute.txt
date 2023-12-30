@@ -1,0 +1,15 @@
+D:\Programs\University\oop\Lab4\ComplexCLI\bin\Debug\net6.0\ComplexCLI.exe
+D:\Programs\University\oop\Lab4\ComplexCLI\bin\Debug\net6.0\ComplexCLI.deps.json
+D:\Programs\University\oop\Lab4\ComplexCLI\bin\Debug\net6.0\ComplexCLI.runtimeconfig.json
+D:\Programs\University\oop\Lab4\ComplexCLI\bin\Debug\net6.0\ComplexCLI.dll
+D:\Programs\University\oop\Lab4\ComplexCLI\bin\Debug\net6.0\ComplexCLI.pdb
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.csproj.AssemblyReference.cache
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.AssemblyInfoInputs.cache
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.AssemblyInfo.cs
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.csproj.CoreCompileInputs.cache
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.dll
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\refint\ComplexCLI.dll
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.pdb
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ComplexCLI.genruntimeconfig.cache
+D:\Programs\University\oop\Lab4\ComplexCLI\obj\Debug\net6.0\ref\ComplexCLI.dll
